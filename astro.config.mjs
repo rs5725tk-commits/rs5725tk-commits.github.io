@@ -6,6 +6,6 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://kinokon.github.io',
+	site: 'https://rs5725tk-commits.github.io',
 	integrations: [mdx(), sitemap()],
 });
